@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I`m Rich Papa</h1>
+<h1 align="center">Hi 👋, I`m Rich Papa Im just a student trying my best to learn something</h1>
 <h3 align="center">Im CVSU NAIC STUDENT</h3>
 
 <h3 align="left">Connect with me:</h3>
